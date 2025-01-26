@@ -44,5 +44,5 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ## 📧 Get in Touch
 
 - LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)  
-- Email: yourname@email.com
+- Portfolio: [[yourportfolio.com]([https://yourportfolio.com](https://sharmaethegreat.com/))  ](https://sharmaethegreat.com/)
+- Email: sharmae.code@email.com
