@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm [Your Name]  
-🚀 Software Developer | 🌐 Web Enthusiast | 📚 Lifelong Learner  
+# Hi there! 👋 I'm Sharmae09
+🚀 Software Developer | 🌐 Web Enthusiast | 📚 Lifelong Learner  | Computer engineering student
 
 ---
 
 ## About Me  
-I'm a passionate software developer with a love for creating intuitive and dynamic web applications.  
+I'm an indie full-stack passionate software developer with a love for creating intuitive and dynamic web applications.  
 When I'm not coding, you'll find me exploring tech trends, solving puzzles, or learning something new.  
 
 ---
