@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Sharmae09
-🚀 Software Developer | 🌐 Web Enthusiast | 📚 Lifelong Learner  | Computer engineering student
+🚀  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner  |
 
 ---
 
