@@ -1,8 +1,8 @@
 #  Hi there! 👋 I'm Sharmae
- 💻  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner |<br>
-⚙️ I’m currently working on a web application<br>
-🌱 I’m currently learning Vue JS<br>
+💻  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner |<br>
 ⚡ Fun fact: I built my first app when I was just 17<br>
+🌱 I’m currently learning Vue JS<br>
+⚙️ I’m currently working on a web application<br>
 🤖 I'm also into robotics: I created a robot that slaps you when you oversleep
 
 ---
