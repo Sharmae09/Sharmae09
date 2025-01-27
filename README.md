@@ -1,5 +1,5 @@
 #  Hi there! 👋 I'm Sharmae
-💻  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner |<br>
+💻  Computer Engineering Student | 🌐 Web Developer | 📚 Lifelong Learner |<br>
 ⚡ Fun fact: I built my first app when I was just 17<br>
 🌱 I’m currently learning Vue JS<br>
 ⚙️ I’m currently working on a web application<br>
@@ -46,8 +46,9 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🌐 Get in Touch
 
-- LinkedIn: https://linkedin.com/in/SharmaeLongares
-- Portfolio: https://sharmaethegreat.com/
-- Email: sharmae.code@email.com
+- 🐙 LinkedIn: https://linkedin.com/in/SharmaeLongares  
+- 💼 Portfolio: https://sharmaethegreat.com/  
+- 📧 Email: sharmae.code@email.com
+- 🐦 Twitter: https://x.com/SharmaeLongares  
 
 ---
