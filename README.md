@@ -1,9 +1,13 @@
-# Hi there! 👋 I'm Sharmae09
-🚀  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner  |
+#  Hi there! 👋 I'm Sharmae
+ 💻  Computer Engineering Student | 🌐 Web Enthusiast | 📚 Lifelong Learner  |
+🔭 I’m currently working on a web application<br>
+🌱 I’m currently learning Vue JS<br>
+⚡ Fun fact: I built my first app when I was just 17<br>
+🤖 I'm also into robotics: I created a robot that slaps you when you oversleep
 
 ---
 
-## About Me  
+## 💫 About Me  
 I'm an indie full-stack passionate software developer with a love for creating intuitive and dynamic web applications.  
 When I'm not coding, you'll find me exploring tech trends, solving puzzles, or learning something new.  
 
@@ -28,9 +32,8 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ---
 
 ## 📊 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sharmae09&&theme=radical&hide_border=false)<br/>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ---
 
@@ -41,28 +44,10 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ---
 
-## 📧 Get in Touch
+## 🌐 Get in Touch
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- Portfolio: [[yourportfolio.com]([https://yourportfolio.com](https://sharmaethegreat.com/))  ](https://sharmaethegreat.com/)
+- LinkedIn: https://linkedin.com/in/SharmaeLongares
+- Portfolio: https://sharmaethegreat.com/
 - Email: sharmae.code@email.com
 
-
-# 💫 About Me:
-🔭 I’m currently working on a web application<br>🌱 I’m currently learning Vue JS<br>⚡ Fun fact: I built my first app when I was just 17<br>🤖 I'm also into robotics: I created a robot that slaps you when you oversleep
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sharmae Longares) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sharmae09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sharmae09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmae09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=Sharmae09&icon=0&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
