@@ -45,7 +45,8 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ---
 
 ## 🌐 Get in Touch
-
+- 💼 Portfolio: https://sharmaethegreat.com/
+- 📧 Email: [sharmae.code@email.com](mailto:sharmae.code@email.com)
 
 
 ---
