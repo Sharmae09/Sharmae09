@@ -46,9 +46,6 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🌐 Get in Touch
 
-- 🐙 LinkedIn: https://linkedin.com/in/SharmaeLongares  
-- 💼 Portfolio: [https://sharmaethegreat.com/  ](https://sharmaethegreat.com/)
-- 📧 Email: sharmae.code@email.com
-- 🐦 Twitter: [https://x.com/SharmaeLongares ](https://x.com/Sharmae_Dev) 
+
 
 ---
