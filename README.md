@@ -1,5 +1,5 @@
 #  Hi there! 👋 I'm Sharmae
-💻  Computer Engineering Student | 🌐 Web Developer | 📚 Lifelong Learner |<br>
+💻  Computer Engineering Student | 🌐 Software Developer | 📚 Lifelong Learner |<br>
 ⚡ Fun fact: I built my first app when I was just 17<br>
 🌱 I’m currently learning Vue JS<br>
 ⚙️ I’m currently working on a web application<br>
