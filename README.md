@@ -50,5 +50,8 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 - 💼 Portfolio: https://sharmaethegreat.com/
 - 📧 Email: [sharmae.code@email.com](mailto:sharmae.code@email.com)
 
+## 💰 Support My Work
+-  [☕ Buy Me a Coffee](https://buymeacoffee.com/sharmae)
+
 
 ---
