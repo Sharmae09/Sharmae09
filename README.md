@@ -40,8 +40,9 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🌟 Projects
 
-- [**Awesome Project 1**](https://github.com/yourusername/project1): A brief description of what the project does.  
-- [**Awesome Project 2**](https://github.com/yourusername/project2): Another project with a short description.  
+- [**AI Resume and Cover Letter Generator**](https://github.com/yourusername/project1): A brief description of what the project does.  
+- [**API Marketplace**](https://github.com/yourusername/project2): Another project with a short description.  
+- [**Dental Appointment App**](https://github.com/yourusername/project2): Another project with a short description.  
 
 ---
 
