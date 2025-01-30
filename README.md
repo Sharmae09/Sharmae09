@@ -23,6 +23,7 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🎯 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sharmae09&&theme=radical&hide_border=false)<br/>
+![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmae09&layout=compact&theme=radical)<br>
 
 
 ---
