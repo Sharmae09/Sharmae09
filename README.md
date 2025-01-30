@@ -41,11 +41,10 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 --- 
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 --- 
-
 ## 💰 Support My Work
 -  [☕ Buy Me a Coffee](https://buymeacoffee.com/sharmae)
   
