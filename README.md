@@ -3,8 +3,6 @@
 ✨ Solopreneur (Business with a touch of magic)<br>
 ⚡ Fun fact: I built my first app when I was just 17<br>
 🌱 I’m currently learning Vue JS<br>
-⚙️ I’m currently working on a web application<br>
-🤖 I'm also into robotics: I created a robot that slaps you when you oversleep
 
 ---
 
