@@ -28,7 +28,7 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🌟 Projects
 
-- [**AI Resume and Cover Letter Generator**](https://github.com/yourusername/project1): A brief description of what the project does.  
+- [**GPM-AI**](gpm-ai.netlify.app):  Easily create and customize a professional-looking GitHub profile README.  
 - [**API Marketplace**](https://github.com/yourusername/project2): Another project with a short description.  
 - [**Dental Appointment App**](https://github.com/yourusername/project2): Another project with a short description.  
 
