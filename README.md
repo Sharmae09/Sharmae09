@@ -29,9 +29,10 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ## 🌟 Projects
 
 - [**GPM-AI**](gpm-ai.netlify.app):  Easily create and customize a professional-looking GitHub profile README.  
-- [**API Marketplace**](https://github.com/yourusername/project2): Another project with a short description.  
-- [**Dental Appointment App**](https://github.com/yourusername/project2): Another project with a short description.  
-
+- [**EastQuest**](https://github.com/yourusername/project2): Productivity App.  
+- [**Finn**](https://github.com/yourusername/project2): Finance tracker and budget setter.  
+- [**Feector**](https://github.com/yourusername/project2): What I learned in my Fundamentals in Electronic Circuits class  
+- [**DeansOrDeym**](https://github.com/yourusername/project2): Grade calculator
 ---
 
 ## 🌐 Get in Touch
