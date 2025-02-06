@@ -28,11 +28,14 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 
 ## 🌟 Projects
 
-- [**GPM-AI**](gpm-ai.netlify.app):  Easily create and customize a professional-looking GitHub profile README.  
+- [**GPM-AI**](gpm-ai.netlify.app):  Easily create and customize a professional GitHub profile README with AI
 - [**EastQuest**](https://github.com/yourusername/project2): Productivity App.  
-- [**Finn**](https://github.com/yourusername/project2): Finance tracker and budget setter.  
+- [**Perashible**](https://github.com/yourusername/project2): Finance tracker and budget setter
 - [**Feector**](https://github.com/yourusername/project2): What I learned in my Fundamentals in Electronic Circuits class  
 - [**DeansOrDeym**](https://github.com/yourusername/project2): Grade calculator
+- [**CpeSchudentFW**](https://github.com/yourusername/project2): FreedomWall for Cpe Students
+- [**Notesheesh**](https://github.com/yourusername/project2): Notepad
+
 ---
 
 ## 🌐 Get in Touch
