@@ -33,7 +33,6 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 - [**Perashible**](https://github.com/yourusername/project2): Finance tracker and budget setter
 - [**Feector**](https://github.com/yourusername/project2): What I learned in my Fundamentals in Electronic Circuits class  
 - [**DeansOrDeym**](https://github.com/yourusername/project2): Grade calculator
-- [**CpeSchudentFW**](https://github.com/yourusername/project2): FreedomWall for Cpe Students
 - [**Notesheesh**](https://github.com/yourusername/project2): Notepad
 -[**GreyDaylauncher**](https://github.com/yourusername/project2): Minimalist Os launcher
 
