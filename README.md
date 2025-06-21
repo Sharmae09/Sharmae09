@@ -24,23 +24,6 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ![top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharmae09&layout=compact&theme=radical)<br>
 
 
----
-
-## 🌟 Projects
-
-- [**GPM-AI**](gpm-ai.netlify.app):  Easily create and customize a professional GitHub profile README with AI
-- [**EastQuest**](https://github.com/yourusername/project2): Productivity App.  
-- [**Perashible**](https://github.com/yourusername/project2): Finance tracker and budget setter
-- [**Feector**](https://github.com/yourusername/project2): What I learned in my Fundamentals in Electronic Circuits class  
-- [**DeansOrDeym**](https://github.com/yourusername/project2): Grade calculator
-- [**Notesheesh**](https://github.com/yourusername/project2): Notepad
--[**GreyDaylauncher**](https://github.com/yourusername/project2): Minimalist Os launcher
-
----
-
-## 🌐 Get in Touch
-- 💼 Portfolio: https://sharmaethegreat.com/
-- 📧 Email: [sharmae.code@email.com](mailto:sharmae.code@email.com)
 
 --- 
 
