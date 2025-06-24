@@ -1,14 +1,6 @@
 #  Hi there! 👋 I'm Sharmae
 👩‍💻 Computer Engineering Student | 🌐 Software Developer | 📚 Lifelong Learner |<br>
-✨ Solopreneur (Business with a touch of magic)<br>
-⚡ Fun fact: I built my first app when I was just 17<br>
-🌱 Vue JS<br>
-
----
-
-## 💫 About Me  
-I'm an indie full-stack passionate software developer with a love for creating intuitive and dynamic web applications.  
-When I'm not coding, you'll find me exploring tech trends, solving puzzles, or learning something new.  
+🌱 Nuxt, Vue JS<br>
 
 ---
 
@@ -30,12 +22,5 @@ When I'm not coding, you'll find me exploring tech trends, solving puzzles, or l
 ### ✍️ Quote of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
---- 
-## 💰 Support My Work
--  [☕ Buy Me a Coffee](https://buymeacoffee.com/sharmae)
-  
 ---
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
