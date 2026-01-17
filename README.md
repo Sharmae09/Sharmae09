@@ -1,5 +1,5 @@
 #  Hi there! 👋 I'm Sharmae
-👩‍💻 Computer Engineering Student | 🌐 Software Developer | 📚 Lifelong Learner |<br>
+👩‍💻 Computer Engineering Student | 🌐 Fullstack Developer | 📚 Lifelong Learner |<br>
 🌱 Nuxt, Vue JS<br>
 <br>
 
