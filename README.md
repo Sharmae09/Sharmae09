@@ -3,7 +3,7 @@
 🌱 Nuxt, Vue JS<br>
 <br>
 
-I’m a full-stack developer with six years of hands-on experience building web and application projects. I’ve built multiple production-ready full-stack applications, along with many experimental projects that have strengthened my engineering fundamentals.
+I’m a full-stack developer with six years of hands-on learning experience building web and application projects. I’ve built multiple production-ready full-stack applications, along with many experimental projects that have strengthened my engineering fundamentals.
 
 I specialize in backend development with Node.js and work with databases like Firestore, Supabase, MongoDB, and SQLite. I also create modern interfaces using JavaScript, TypeScript, React, Next.js, Vue, and Nuxt, focusing on clean, responsive UI with HTML, CSS, Tailwind, Vuetify, Bootstrap, and SCSS.
 
